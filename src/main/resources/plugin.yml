@@ -1,0 +1,8 @@
+name: RPGC
+version: ${project.version}
+main: ru.rpgc.RPGC
+authors: [BigTows]
+description: This minecraft plugin with specific
+commands:
+ create:
+ branch:
